@@ -1,3 +1,0 @@
-1) Elabore um programa em C, para ler dois números inteiros para as variáveis A e B, efetuar a troca dos valores de modo que a
-variável A passe a possuir o valor da variável B, e a variável B passe a possuir o valor da variável A. Ao final, apresentar os valores
-trocados. Continuação está nos Slides
